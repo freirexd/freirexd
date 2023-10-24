@@ -4,7 +4,7 @@ Hi 👋 My name is Matheus Freire
 Back-end Developer
 ------------------
 
-I have been learning to code for 3 months, after switching my career. I started with HTML, CSS and JavaScript, but have really found a passion for backend development and now im learning more about Python and Java.
+I work as a Ruby on Rails developer for almost a year, after switching my career. I started with HTML, CSS and JavaScript, but have really found a passion for backend development and now im learning more about Ruby.
 
 * 🌍  I'm based in Goiânia-GO Brasil
 * ✉️  You can contact me at [matheusfreire09@live.com](mailto:matheusfreire09@live.com)
@@ -13,7 +13,7 @@ I have been learning to code for 3 months, after switching my career. I started 
 ### Skills
 
 <p align="left">
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
+<a href="https://rubyonrails.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ruby-colored.svg" width="36" height="36" alt="Ruby" /></a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
 </p>
 
