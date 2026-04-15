@@ -6,10 +6,6 @@ Back-end Developer
 
 I work as a Ruby on Rails developer for almost a year, after switching my career. I started with HTML, CSS and JavaScript, but have really found a passion for backend development and now im learning more about Ruby.
 
-* 🌍  I'm based in Goiânia-GO Brasil
-* ✉️  You can contact me at [matheusfreire09@live.com](mailto:matheusfreire09@live.com)
-* ⚡  i was a profissional gamer
-
 ### Skills
 
 <p align="left">
